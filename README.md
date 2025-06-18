@@ -128,6 +128,15 @@ This script will:
 
 ---
 
+## Pretrained Weights
+
+You can download the pretrained models and score files from the [latest release](https://github.com/EllaChang1011/deepfake-detector/releases/tag/v1.0).
+
+- `clip_base.pth`
+- `clip_lora.pth`
+
+--- 
+
 ## 📝 Report
 
 For details, refer to the "report.pdf".
