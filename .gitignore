@@ -1,0 +1,17 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Datasets (large)
+datasets/
+datasets.zip
+
+# Model weights
+*.pth
+
+# Env installer
+Miniconda3-latest-*.sh
+
+# Logs & checkpoints
+*.log
+.ipynb_checkpoints/
